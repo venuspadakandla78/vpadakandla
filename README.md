@@ -1,50 +1,85 @@
-# Venu Padakandla
+# Hi, I'm Venu Padakandla
 
-Post-Silicon Validation Engineer | Silicon Bring-Up | Firmware Validation | Python Automation
+Post-Silicon Validation Engineer focused on silicon bring-up, platform qualification, firmware validation, and validation infrastructure automation.
 
-Engineer focused on silicon validation, platform bring-up, firmware qualification, power-performance characterization, validation infrastructure, and large-scale automation.
+## Current Focus
 
-Areas of interest:
-• Post-Silicon Validation
-• Silicon Characterization
-• DVFS & Power Analysis
-• Firmware Validation
-• BMC/OpenBMC
-• ARM Architecture
-• Hardware Debug
-• Validation Infrastructure
-• Python Automation
-• Distributed Test Systems
+* Silicon Bring-Up
+* Post-Silicon Validation
+* DVFS Characterization
+* PVT Validation
+* Power & Thermal Analysis
+* Firmware Qualification
+* Platform Debug
+* Validation Infrastructure
+* Python Automation
 
+## Technical Areas
 
-Currently working on:
+### Silicon & Platform Validation
 
-- Silicon Bring-Up
-- DVFS Validation
-- PVT Characterization
-- Firmware Validation
-- Power & Thermal Characterization
-- Platform Qualification
-- Python Automation
-- Validation Infrastructure
+* Silicon Bring-Up
+* System Characterization
+* PVT Validation
+* DVFS Validation
+* Voltage Margining
+* Reliability Testing
+* RAS Validation
+* Platform Qualification
+* Firmware Validation
+* Hardware Debug
 
-Technical Areas:
+### Architecture & Systems
 
-- ARM Architecture
-- Linux
-- Python
-- Bash
-- Git
-- OpenBMC
-- PCIe
-- System Firmware
-- Hardware Validation
-- Silicon Characterization
+* ARM Architecture
+* Linux Systems
+* PCIe
+* High-Speed IO
+* BMC / OpenBMC
+* IPMI
+* SBIOS Validation
+* Platform Firmware
 
-Projects:
+### Automation
 
-- Validation Farm Manager
-- Qualification Dashboard
-- DVFS Validation Framework
-- BMC Automation Toolkit
-- Thermal Validation Suite
+* Python
+* Bash
+* Git
+* Automation Framework Development
+* Test Infrastructure
+* Qualification Dashboards
+* Fleet Monitoring
+* Log Analysis
+* Recovery Automation
+
+## Featured Projects
+
+### Validation Farm Manager
+
+Automation framework for managing distributed validation systems, remote execution, qualification monitoring, and failure recovery.
+
+### Qualification Dashboard
+
+Platform qualification analytics and reporting framework with workload tracking and failure analysis.
+
+### BMC Automation Toolkit
+
+Automation toolkit for power control, sensor monitoring, firmware inventory, and platform management validation.
+
+### DVFS Validation Framework
+
+Automated voltage-frequency characterization and workload-driven performance validation framework.
+
+### Thermal Validation Suite
+
+Automation framework for thermal characterization, environmental testing, and telemetry collection.
+
+## Interests
+
+* AI Hardware Platforms
+* Silicon Validation
+* Firmware Engineering
+* Computer Architecture
+* Power & Performance Characterization
+* Hardware-Software Co-Validation
+* Platform Reliability Engineering
