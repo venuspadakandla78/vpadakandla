@@ -1,6 +1,21 @@
 # Venu Padakandla
 
-Post-Silicon Validation Engineer
+Post-Silicon Validation Engineer | Silicon Bring-Up | Firmware Validation | Python Automation
+
+Engineer focused on silicon validation, platform bring-up, firmware qualification, power-performance characterization, validation infrastructure, and large-scale automation.
+
+Areas of interest:
+• Post-Silicon Validation
+• Silicon Characterization
+• DVFS & Power Analysis
+• Firmware Validation
+• BMC/OpenBMC
+• ARM Architecture
+• Hardware Debug
+• Validation Infrastructure
+• Python Automation
+• Distributed Test Systems
+
 
 Currently working on:
 
